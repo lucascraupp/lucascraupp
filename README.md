@@ -24,6 +24,7 @@
 
 #### Databases:
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%20?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1&color=%234479A1)&nbsp;
 
 #### Workstation Tools:
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)&nbsp;
