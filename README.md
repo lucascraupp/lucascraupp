@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=C77DFF&size=24&center=true&vCenter=true&width=800&height=50&duration=3500&pause=1000&lines=Forward+Deployed+Engineer+@+Alvarez+%26+Marsal;Building+AI+agents+for+infrastructure+%26+energy;Telecom+Engineer+%7C+ML+for+PV+plants;From+Santa+Catarina,+Brazil;Be+welcome!+:%29)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-coelho-raupp)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucascoelhoraupp@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucascraupp)
 
